@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1708455067 source:e:\iti material\oopproj\main.cpp
+	<iostream>
+	<vector>
+	"Bank.h"
+	"Customer.h"
+
+1708553964 e:\iti material\oopproj\include\bank.h
+	"Customer.h"
+	"Teller.h"
+	<iostream>
+	<queue>
+	<vector>
+
+1708455067 e:\iti material\oopproj\include\customer.h
+	<iostream>
+	<string>
+
+1708457425 e:\iti material\oopproj\include\teller.h
+	<iostream>
+	<string>
+
